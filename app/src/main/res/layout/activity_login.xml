@@ -36,6 +36,7 @@
         android:id="@+id/bValidar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:onClick="validar"
         android:padding="20dp"
         android:text="Validar" />
 </LinearLayout>
